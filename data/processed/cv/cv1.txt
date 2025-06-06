@@ -1,0 +1,130 @@
+Langues
+Français 
+Natif
+Anglais
+Avancé (C1 level)
+Centres d'intérêt
+Veille informatique
+Automatisation
+Sport(basket) et randonnées
+Linguistique
+Compétences
+Langages de programmation 
+C, Pascal, Python, C#, Ocaml, Java,
+JavaScript, SQL.
+FrameWorks and Libraries
+React, Vue.JS, Node,JS, Flask, FastAPI,
+Pandas, SpringBoot, Django
+Base de Données
+MySQL, PostgreSQL, MongoDB, pipelines
+ETL/ELT, Structuration de la donnée,
+Modélisation, Data Mining, Régression
+Outils
+GIT, Postman, Figma, StarUML, PowerShell,
+Wireshark, Docker, Kubernetes
+(Autodidacte), Unity.
+Gestion de projets
+Méthode Agile, Scrum, travail en groupe,
+organisation
+Réseau
+Routage, Adressage, Découpage réseau,
+DHCP, DNS
+Réseaux sociaux
+Diplômes et Formations
+Expériences professionnelles
+PROJETS UNIVERSITAIRES ET PERSONNELS
+Chatbot IA avec Vue.js, FastAPI & JWT
+Github: @schrk06
+Linkedin :@Salim Charikh
+scharikh0@gmail.com
+Île-de-France
+Permis B
+07 50 58 82 11
+Salim Charikh
+Étudiant en deuxième année ingénieur en Big Data et Machine learning, je suis à
+la recherche d'une alternance à partir de Septembre 2025 dans le domaine du
+développement, IA, machine learning, Mlops et Data Engineering.
+Employé libre service chez Carrefour 
+De février 2025 à avril 2025   GoJob (Agence d'interim) Quincy-sous-Sénart
+Développeur Backend SpringBoot Stagiaire
+Depuis mai 2025    AriMayi     18 PROMENADE DU VERGER 92130 ISSY-LES-MOULINEAUX
+Développement d’API REST avec Spring Boot (Java 21), JWT, PostgreSQL.
+Conception MCD, implémentation base de données, endpoints documentés
+(Swagger).
+Fonctionnalités : inscription, gestion d’entretiens, favoris, sécurité & validation.
+Big Data et Machine Learning (Diplôme d'ingénieur) 
+De septembre 2025 à juin 2027  EFREI Villejuif
+Licence 3 Informatique parcs Conception et intelligence des logiciels et
+des systèmes
+Depuis septembre
+2024 
+Université d'Évry Paris Saclay Évry-Courcouronnes,
+France
+Prépa intégrée en Informatique
+De septembre 2022 à juin 2023    EPITA Villejuif, île-de-France
+Année obtenue avec mention "Bien"
+Baccalauréat série Mathématiques.
+De septembre 2020 à juin 2021     Polyvalent Bejaïa, BJ, Algeria 
+Bac obtenu avec mention "Très bien" et une moyenne générale de 16.88
+Développement d’une app web avec authentiﬁcation JWT et gestion des rôles.
+Intégration d’un modèle de génération de texte (OpenAI / Hugging Face).
+Communication frontend/backend via API REST.
+Aﬃchage dynamique, gestion des erreurs, design responsive.
+API Todo List avec Spring Boot, JPA & Maven
+Création d’une API REST pour la gestion de tâches (CRUD) avec JPA.
+Mise en place de la logique métier, contrôleurs REST et ﬁltres par statut.
+Tests réalisés via Postman, projet structuré avec Maven.
+Assistant vocal J.A.R.V.I.S. (Python)
+Développement d’un assistant vocal capable d’exécuter des commandes
+(heure, web, e-mails, musique, info système…) via reconnaissance et
+synthèse vocale.
+Automatisation de tâches système (shutdown, capture, etc.).
+Bibliothèque de parallélisation maximale en Python
+Exécution de tâches avec parallélisme maximal et respect des dépendances.
+Gestion des dépendances, exécution séquentielle et parallèle.
+Validation des entrées, aﬃchage graphique du graphe.
+IA — Problème du voyageur de commerce avec algorithmes génétiques
+Programme avec interface graphique pour optimiser un parcours de villes
+aléatoires.
+Sélection, croisement, mutation, évaluation des solutions.
+Aﬃchage graphique de la résolution.
+Modélisation d’une application mobile “AuchanEats”
+Application de livraison de repas pour Auchan.
+Diagrammes UML (activités, séquence, cas d’utilisation, classes).
+Maquettes UI/UX avec Figma.
+Description de l'offre
+Cette année, faites partie des 6500 alternants à rejoindre le groupe EDF !
+Un Groupe international, champion de la croissance bas carbone qui lutte au quotidien contre le réchauffement climatique !
+Une entreprise engagée depuis plus de 30 ans aux côtés du sport français. 
+90,8% des étudiants recommandent EDF l’issue de leur alternance ou de leur stage, (source : enquête Happy Trainees 2024)
+Vos missions 
+Au sein de l’équipe OUTILS de la Direction opératIons Groupes Informatique & Telecom (DIGIT) et sous la responsabilité du Product Owner Automatisation, vous participerez tout au long de votre contrat à être acteur de la croissance de la plateforme d’automatisation de l’exploitation du système d’information du groupe EDF.
+Dans ce cadre, vos principales missions seront :
+Participer à l’exploitation et à l’amélioration continue de la plateforme d’automatisation IT, basée sur le produit Ansible Automation Platform.
+Développer et mettre en œuvre de nouveaux cas d’usages d’automatisation en collaboration avec les équipes de DIGIT
+Contribuer à la veille technologique et des meilleurs pratiques en DevOps & Automatisation
+Cette liste pourra évoluer en fonction de vos attentes, vos envies, vos idées, les priorités de votre équipe.
+Profil souhaité
+Votre profil 
+🎓A la rentrée 2025, vous serez titulaire d’un BAC+4 en informatique, et vous souhaitez préparer un diplôme d’ingénieur/Master BAC+5 sur 1 an en alternance, dans le cadre d’un contrat d’apprentissage.
+Le rythme d’alternance envisagé pour ce poste est une semaine en formation, une semaine chez nous.
+Qualités recherchées
+Rigueur & Autonomie
+Communication et sens du travail en équipe
+Curiosité et volonté de développer ses compétences techniques
+Compétences techniques recherchées
+Administration Système Linux RHEL 8
+Connaissance de l’environnement Ansible Automation Platform (Ansible Tower)
+Développement Python pour des besoins de profiling et analyse de performance
+Connaissance de SQL/PostgreSQL
+Connaissance de Git,Gitlab,GitOps
+Connaissance conteneurisation
+ 
+Ce qu’EDF peut vous offrir 
+Avantages
+Vous déménagez pour votre alternance ? EDF peut vous aider à financer une partie de votre loyer.
+Vous profitez des activités sociales de l’entreprise
+Vous bénéficiez d’une prime d’intéressement et d’une couverture sociale.
+Vous serez remboursé de 75% de votre titre de transport 🚌
+Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN.
+Notre objectif est d’ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.

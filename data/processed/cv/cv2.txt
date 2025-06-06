@@ -1,0 +1,86 @@
+Langues
+Français Natif
+Anglais B2
+Centres d'intérêt
+CTF
+Competences techniques
+Pentest Wireshark, Nmap, Metasploit,
+Burp Suite, Hydra, Ettercap
+Administration système Windows
+Server, Active Directory, GPO, ACL, DNS,
+SSH, DHCP, Virtualisation (VMware,
+Virtualbox)
+Réseau TCP/IP, LAN/WAN, VPN, Firewall,
+CISCO
+Langages de programmation JAVA,
+Processing, Ocaml et C
+Langages de Script PowerShell, Bash et
+Python
+Systèmes d’exploitation Windows,
+Linux(Ubuntu, Kali)
+Base de données MySQL et PostgreSQL
+Cloud AWS, Azure
+Certiﬁcations
+ANSSI : MOOC SecNumEdu. 
+IBM : Cybersecurity Fundamentals.
+Google : réseaux et sécurité des réseaux.
+TryHackMe : Mon profil TryHackMe
+Projets Universitaires
+(En cours) Lab SOC Linux : Détection d'Attaques Web avec Security Onion
+Depuis mai 2025Projet Perso Puteaux, France
+Diplomes et Formations
+Admissible au Master Sécurité des Systèmes d'Informatique 
+De septembre 2025 à septembre 2027 Sorbonne Université Paris, France
+Licence Informatique parcours Administration système et réseaux
+De septembre 2022 à Juin 2025 Université d’Évry Paris Saclay Évry-Courcouronnes, France
+Baccalauréat général
+De septembre 2021 à juin 2022 Lycée international Alexandre Dumas Alger, Algérie
+Experiences professionnelles
+Chef de rang
+Depuis juillet 2023Pepe Manzo Villeneuve-la-Garenne, France
+Une véritable passion pour les
+challenges de cybersécurité.
+Sports
+Football
+Running
+Musique
+mohamedyahiaoui@proton.me
+Île-de-France 
+07 71 10 71 61 
+Mohamed-Ousalem YAHIAOUI
+Permis B
+Simulé et analysé des attaques (SQLi, reverse shell) avec Security Onion
+Conﬁguré IDS/IPS (Suricata) et outil d'analyse réseau (Zeek)
+Développé des scripts d'automatisation pour la surveillance SOC
+Mise en œuvre de procédures de réponse aux incidents
+Création, sécurisation et sauvegarde d’un réseau d’entreprise
+De février 2025 à mars 2025Université d'Évry Paris Saclay Évry-Courcouronnes, France
+Segmentation du réseau et ﬁltrage d'accès.
+Mise en place d'un pare-feu avec nftables.
+Déploiement des serveurs DNS, WEB et de sauvegarde avec Borgbackup.
+Comparaison des outils de sauvegarde.
+Analyse et exploitation des protocoles réseau avec Netcat et ICMP Redirect
+Février 2025Université d'Évry Paris Saclay Évry-Courcouronnes, France
+Conﬁguration d’un serveur et client Netcat pour la transmission de données en clair.
+Analyse des échanges Netcat avec Wireshark pour valider l’absence de chiffrement.
+Mise en place d’un scénario légitime et démonstration d’une attaque via ICMP Redirect.
+Interception et analyse du traﬁc Telnet, identiﬁcation des vulnérabilités et proposition de
+contre-mesures.
+Implémentation et analyse de l'authentiﬁcation forte sous Linux
+D'octobre 2024 à novembre 2024Université d'Évry Paris Saclay Évry-Courcouronnes, France
+Mise en œuvre de méthodes d’authentiﬁcation forte (TOTP) sous Linux.
+Conﬁguration avancée de services SSH et modules PAM.
+Analyse comparative de différentes méthodes d’authentiﬁcation.
+Rédaction d’un rapport technique détaillé.
+Classiﬁcation d'images par date de prise de vue en python
+D'octobre 2024 à décembre 2024Université d'Évry Paris saclay Évry-Courcouronnes, France
+Extraction des métadonnées EXIF pour classer les images.
+Création de répertoires organisés (ex."Photos/{année}/{mois}/{nom}").
+Comparatif de hash des images pour identiﬁer et éliminer les doublons.
+Développement d'une interface utilisateur en ligne de commande (CLI).
+Collaboration en équipe via Discord et gestion de version avec GitHub.
+Mohamed-Ousalem YAHIAOUI
+Étudiant admis au Master 1 Sécurité des Systèmes
+d’Information, en recherche d'un contrat d’alternance de 24
+mois en cybersécurité dès septembre 2025.
+Calendrier master MSI - Sorbonne Université

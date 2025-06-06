@@ -1,0 +1,47 @@
+Salim Charikh 
+Île-de-France 
+scharikh0@gmail.com 
+07 50 58 82 11 
+LinkedIn : Salim Charikh 
+GitHub : schrk06 
+ 
+À l’attention du recruteur, 
+TotalEnergies 
+Courbevoie, Île-de-France 
+ 
+Objet : Candidature pour le stage - Ingénieur Machine Learning spécialisé sur NLP (Juillet 
+2025) 
+ 
+Madame, Monsieur, 
+ 
+Actuellement étudiant en Licence 3 Informatique à l’Université d’Évry Paris-Saclay, je suis à 
+la recherche d’un stage de fin de cycle de 6 mois à compter du mois de mai 2025, afin de 
+valider ma formation et de poursuivre ensuite en alternance dans le domaine du Machine 
+Learning, du NLP ou du MLOps dès septembre à l’EFREI. 
+ 
+Votre projet "Document Insights", combinant modèles de langage (LLM), intelligence 
+artificielle agentique et environnements on-premise, s’inscrit parfaitement dans mes 
+domaines d’intérêt et de compétences. J’ai notamment mené plusieurs projets mêlant 
+génération de texte via API (OpenAI, HuggingFace), développement frontend/backend 
+(Vue.js, FastAPI) et gestion d’authentification sécurisée. J’ai également conçu des solutions 
+d’optimisation (TSP via algorithmes génétiques), de parallélisation et de traitement de 
+données, démontrant une bonne capacité d’abstraction et de mise en œuvre concrète. 
+ 
+Mon intérêt pour les LLM et le NLP m’a conduit à explorer des bibliothèques comme 
+Transformers, NLTK et Pandas, ainsi que des problématiques de prompt engineering, 
+d’évaluation de performance et d’intégration en environnement restreint. Je suis également 
+familier avec des outils comme Docker, Git, Figma, et avec les bonnes pratiques de gestion 
+de projets agiles. 
+ 
+Sérieux, rigoureux et autonome, je suis convaincu de pouvoir m’intégrer rapidement à vos 
+équipes et contribuer efficacement à vos recherches appliquées, tout en apprenant auprès 
+d’experts dans un cadre stimulant. Mon niveau avancé en anglais (C1) me permet de 
+travailler efficacement dans un contexte technique international. 
+ 
+Je serais heureux de pouvoir échanger plus en détail lors d’un entretien. Vous trouverez en 
+pièce jointe mon CV pour toute information complémentaire. 
+ 
+Je vous remercie pour l’attention portée à ma candidature et vous prie d’agréer, Madame, 
+Monsieur, l’expression de mes salutations distinguées. 
+ 
+Salim Charikh 

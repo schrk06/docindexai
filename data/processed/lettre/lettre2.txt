@@ -1,0 +1,51 @@
+Salim Charikh 
+Île-de-France 
+📞 07 50 58 82 11 
+📧 scharikh0@gmail.com 
+📅 Disponible à partir de mai 2025 
+ 
+ 
+À l'attention de l'équipe recrutement de Xerfi 
+15 Rue de Calais, 
+75009 Paris 
+ 
+Paris, le 9 avril 2025 
+ 
+Objet : Candidature pour le stage Développeur Web Services et API REST – Mai 2025 
+ 
+Madame, Monsieur, 
+ 
+Actuellement étudiant en Licence 3 Informatique, parcours Conception et Intelligence des Logiciels et 
+des Systèmes à l’Université d’Évry Paris-Saclay, je suis à la recherche d’un stage de 6 mois à 
+compter de mai 2025, dans un environnement stimulant et exigeant. C’est avec un vif enthousiasme 
+que je vous adresse ma candidature pour le poste de stagiaire Développeur Web Services et API 
+REST chez Xerfi, une entreprise à la croisée de la technologie et de l’intelligence économique. 
+ 
+Grâce à mes projets académiques et personnels, j’ai développé une forte expertise dans le 
+développement Python, la modélisation et la gestion de bases de données relationnelles 
+(PostgreSQL, MySQL), ainsi que la conception d’API RESTful. J’ai notamment conçu une 
+bibliothèque Python de parallélisation de tâches respectant les contraintes de précédence, et réalisé 
+une solution complète de résolution du problème du voyageur de commerce via des algorithmes 
+génétiques, incluant une interface graphique interactive et un moteur de 
+sélection/croisement/mutation efficace. 
+ 
+Mon profil technique est complété par une maîtrise du SQL, une expérience pratique en Node.js, 
+JavaScript, et PHP, ainsi qu’une bonne compréhension des architectures distribuées et de 
+l'optimisation des services web. Je suis également familier avec les outils de documentation 
+technique, les tests unitaires et d’intégration, ainsi que les méthodologies Agile / Scrum, que j’ai 
+pratiquées lors de travaux en équipe. 
+ 
+Curieux, rigoureux et autonome, je suis particulièrement motivé à rejoindre une structure comme 
+Xerfi, dont la vision analytique et l’impact sur la prise de décision des entreprises me parlent 
+profondément. Contribuer à l’évolution de vos API, travailler en synergie avec les équipes front-end, 
+et améliorer les performances de vos services web représenterait pour moi une opportunité unique de 
+mettre mes compétences au service d’un projet porteur de sens. 
+ 
+Je me tiens à votre disposition pour un entretien afin de vous exposer plus concrètement ma 
+motivation et mes idées. Je suis persuadé que notre collaboration pourrait être mutuellement 
+bénéfique, et je serais honoré de contribuer à vos projets ambitieux. 
+ 
+Dans l’attente d’un retour favorable de votre part, je vous prie d’agréer, Madame, Monsieur, 
+l’expression de mes salutations distinguées. 
+ 
+Salim Charikh 

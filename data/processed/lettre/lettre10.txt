@@ -1,0 +1,26 @@
+ 
+ 
+Quentin ABEL MARCEAU 
+quentin.abel-marceau@epita.fr 
+31/01/2025 
+Objet : Lettre de recommandation pour Salim charikh 
+J’ai eu l’opportunité d’encadrer Salim lors de son année de classe préparatoire (SUP) à l’EPITA en cours de 
+programmation, alors que j’occupais le poste d’assistant pédagogique (ACDC) en troisième année. Le but 
+était d’y apprendre les bases fondamentales et des notions plus avancées de la programmation, le début de 
+l’année était consacré au Caml, la suite, sur des notions plus avancées en programmation objet en C#. 
+Dès le début, Salim s’est démarqué par son sérieux, sa rigueur et sa curiosité intellectuelle, il n’hésitait pas à 
+poser des questions pour enrichir sa culture personnelle. Tout au long de l’année, Salim est rapidement 
+monté en compétences, il a pu mettre en pratique les notions qu’il a apprises dans ses cours d’algorithmie 
+dans des problèmes concrets. 
+En plus des compétences techniques qu’il a développé, Salim a su se distinguer par sa capacité à réfléchir 
+sur des problèmes en équipe, et à partager ses connaissances avec ses camarades. 
+Salim fait preuve d’une grande autonomie et de motivation à approfondir ses connaissances, je suis donc 
+persuadé qu’il sera à son aise dans des domaines liés à l’intelligence artificielle et au machine learning. 
+Je suis convaincu que Salim saura pleinement tirer profit d’un programme de master et qu’il y apportera une 
+contribution précieuse grâce à son sérieux, sa curiosité et les compétences qu’il a développé toutes ces 
+années. Je le recommande donc vivement pour toute formation de haut niveau dans ces domaines. 
+Je reste à votre disposition pour toute information complémentaire. 
+Cordialement, 
+--  
+Quentin ABEL MARCEAU 
+Responsable (Deadline) de l’équipe pédagogique (ACU) encadrant les projets de cycles ingénieurs à l’EPITA 
