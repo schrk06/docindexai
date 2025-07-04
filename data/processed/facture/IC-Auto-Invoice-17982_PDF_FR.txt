@@ -1,0 +1,104 @@
+MODÈLE DE FACTURE POUR SPÉCIALISTES  
+DE L’AUTOMOBILE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F A C T U R E  
+ 
+NOM DU CLIENT 
+NUMÉRO DE L’ORDRE 
+TÉLÉPHONE DU CLIENT 
+COMMANDE REÇUE PAR 
+DATE & HEURE DE COMMANDE 
+DATE PROMISE 
+DATE DE LIVRAISON 
+N° IMMATRICULATION 
+KILOMÉTRAGE 
+MARQUE &amp; MODÈLE 
+N° LICENCE et ÉTAT 
+MOTEUR # 
+ 
+ 
+ 
+DESCRIPTION DE LA MAIN-D’ŒUVRE 
+MONTANT 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+TOTAL DE LA MAIN-
+D’ŒUVRE
+€ 
+PIÈCE N° 
+NOM DE LA PIÈCE 
+QUANTITÉ 
+PRIX UNITAIRE 
+MONTANT 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+€ 
+TOTAL DES PIÈCES 
+€ 
+ORDRE 
+D’EXÉCUTION 
+COMPILÉ PAR 
+SOUS-TOTAL 
+€ 
+saisir le taux de 
+taxe 
+TAUX DE TAXE 
+ 
+TRAVAIL AUTORISÉ PAR 
+ 
+TOTAL DE LA TAXE 
+€ 
+SIGNATURE DE 
+L’ORDONNATEUR 
+saisissez un autre 
+coût 
+AUTRE 
+€ 
+DATE D’AUTORISATION 
+TOTAL 
+€ 
+LUBRIFIER 
+CHANGER L’HUILE 
+TRANS 
+BATTERIE 
+RÉPARATION D’APPARTEMENT 
+LAVER 
+DIFF 
+ESSUIE-GLACES 
+POLONAIS 
+
+ 
+EXCLUSION DE RESPONSABILITÉ 
+ 
+Tous les articles, modèles ou informations proposés par Smartsheet sur le site web sont fournis 
+à titre de référence uniquement. Bien que nous nous efforcions de maintenir les informations 
+à jour et exactes, nous ne faisons aucune déclaration, ni n’offrons aucune garantie, de 
+quelque nature que ce soit, expresse ou implicite, quant à l’exhaustivité, l’exactitude, la 
+fiabilité, la pertinence ou la disponibilité du site web, ou des informations, articles, modèles 
+ou graphiques liés, contenus sur le site. Toute la confiance que vous accordez à ces 
+informations relève de votre propre responsabilité, à vos propres risques. 
+ 
+Ce modèle n’est fourni qu’à titre d’exemple. Ce modèle ne saurait en aucun cas être 
+considéré comme des conseils juridiques ou de conformité. Les utilisateurs de ce modèle 
+doivent déterminer les informations nécessaires dont ils ont besoin pour atteindre leurs 
+objectifs. 

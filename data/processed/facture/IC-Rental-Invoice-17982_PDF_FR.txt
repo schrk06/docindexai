@@ -1,0 +1,66 @@
+MODÈLE DE FACTURATION DE PRÊT
+FACTURATION DE PRÊT 
+DATE DE LA FACTURE 
+N° DE FACTURE 
+DATE D’ÉCHÉANCE 
+FACTURE POUR 
+MONTANT 
+ADRESSE DE LA PROPRIÉTÉ 
+LOYER 
+FRAIS 
+TOTAL 
+SOUS-TOTAL 
+AUTRE 
+TOTAL 
+ CONDITIONS GÉNÉRALES 
+Veuillez libeller votre chèque à l’ordre de 
+  ME
+ RCI 
+En cas de questions concernant ce devis, veuillez contacter 
+
+FACTURATION DE PRÊT 
+TYPE DE PAIEMENT 
+CARTE DE CRÉDIT 
+VISA 
+MASTERCARD 
+DISCOVER 
+AMEX 
+NOM DU TITULAIRE DE 
+LA CARTE 
+NUMÉRO DE CARTE 
+DATE D’EXPIRATION 
+  / 
+CVV 
+CODE POSTAL 
+J’autorise l’entreprise ou la personne nommée ci-dessus à débiter la carte de crédit indiquée dans ce formulaire 
+d’autorisation selon les modalités décrites ci-dessus. Cette autorisation de paiement concerne les biens/services 
+décrits ci-dessus, pour le montant indiqué ci-dessus uniquement, et n’est valable que pour une (1) seule utilisation. 
+Je certifie que je suis un utilisateur autorisé de cette carte de crédit et que je ne contesterai pas le paiement avec 
+ma société de carte de crédit ; tant que la transaction correspond aux conditions indiquées dans ce formulaire. 
+SIGNATURE DU 
+TITULAIRE DE CARTE 
+DATE 
+TRAITE BANCAIRE 
+NOM DU COMPTE 
+ADRESSE 
+NOM DE LA BANQUE 
+NUMÉRO DE COMPTE 
+TYPE DE COMPTE 
+CODE BANQUE 
+
+ 
+ 
+ 
+EXCLUSION DE RESPONSABILITÉ 
+ 
+Tous les articles, modèles ou informations proposés par Smartsheet sur le site web sont 
+fournis à titre de référence uniquement. Bien que nous nous efforcions de maintenir les 
+informations à jour et exactes, nous ne faisons aucune déclaration, ni n’offrons aucune 
+garantie, de quelque nature que ce soit, expresse ou implicite, quant à l’exhaustivité, 
+l’exactitude, la fiabilité, la pertinence ou la disponibilité du site web, ou des informations, 
+articles, modèles ou graphiques liés, contenus sur le site. Toute la confiance que vous 
+accordez à ces informations relève de votre propre responsabilité, à vos propres risques. 
+ 
+ 
+ 
+ 

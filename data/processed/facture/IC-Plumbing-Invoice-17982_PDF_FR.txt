@@ -1,0 +1,61 @@
+MODÈLE DE FACTURE EN PLOMBERIE 
+FACTURE EN PLOMBERIE 
+DATE DE LA 
+FACTURE 
+ORDRE 
+D’EXÉCUTION N° 
+N° DE LA FACTURE 
+PLOMBIER 
+NOM DE L’ENTREPRISE 
+MAIN-D'ŒUVRE 
+HEURES 
+TARIF 
+TOTAL 
+NOM DU CONTACT 
+ADRESSE 
+ADRESSE 
+ADRESSE 
+TÉLÉPHONE 
+ADRESSE E-MAIL 
+CLIENT 
+TOTAL 
+NOM DE L’ENTREPRISE 
+ÉQUIPEMENT 
+QTÉ 
+COÛT UNITAIRE 
+TOTAL 
+NOM DU CONTACT 
+ADRESSE 
+ADRESSE 
+ADRESSE 
+TÉLÉPHONE 
+ADRESSE E-MAIL 
+CONFIRMATION 
+MODALITÉS + REMARQUES 
+TOTAL 
+CLIENT 
+(SIGNATURE) 
+SOUS-TOTAL 
+DATE 
+saisissez le 
+pourcentage 
+TAUX DE TAXE 
+Veuillez libeller votre chèque à l’ordre de 
+TOTAL DE LA TAXE 
+AUTRE 
+Pour toute question concernant cette facture, veuillez contacter 
+TOTAL GÉNÉRAL 
+entrez montant initial du règlement 
+MOINS LE PAIEMENT 
+MERCI 
+TOTAL DÛ 
+
+EXCLUSION DE RESPONSABILITÉ 
+Tous les articles, modèles ou informations proposés par Smartsheet sur le site web sont 
+fournis à titre de référence uniquement. Bien que nous nous efforcions de maintenir les 
+informations à jour et exactes, nous ne faisons aucune déclaration, ni n’offrons aucune 
+garantie, de quelque nature que ce soit, expresse ou implicite, quant à l’exhaustivité, 
+l’exactitude, la fiabilité, la pertinence ou la disponibilité du site web, ou des 
+informations, articles, modèles ou graphiques liés, contenus sur le site. 
+Toute la confiance que vous accordez à ces informations relève de votre propre 
+responsabilité, à vos propres risques. 

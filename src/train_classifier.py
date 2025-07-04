@@ -3,10 +3,16 @@
 from pathlib import Path
 import joblib
 from sklearn.pipeline import Pipeline
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer, ENGLISH_STOP_WORDS
+from stop_words import get_stop_words
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
+
+french_stop_words = set(get_stop_words('french'))
+
+combined_stop_words = ENGLISH_STOP_WORDS.union(french_stop_words)
+
 
 def load_dataset(processed_dir="data/processed"):
     texts = []
@@ -34,7 +40,7 @@ def main():
 
     print("🧠 Entraînement du modèle...")
     pipeline = Pipeline([
-        ('tfidf', TfidfVectorizer(stop_words='english')),  # Utilise 'english' pour éviter l'erreur
+        ('tfidf', TfidfVectorizer(stop_words=list(combined_stop_words), lowercase=True)),  # Utilise 'english' pour éviter l'erreur
         ('clf', MultinomialNB())
     ])
 

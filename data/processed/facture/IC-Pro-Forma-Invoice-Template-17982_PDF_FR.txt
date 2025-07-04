@@ -1,0 +1,91 @@
+MODÈLE DE FACTURE PRO FORMA 
+DATE 
+DATE D’EXPIRATION 
+CONDITIONS DE VENTE 
+FACTURE 
+PRO 
+FORMA 
+N° DE LA FACTURE 
+ID CLIENT 
+CLIENT 
+nom complet 
+N° D’ARTICLE 
+UNITÉ DE MESURE 
+DESCRIPTION COMPLÈTE DE LA MARCHANDISE 
+QTÉ 
+VALEUR 
+D’UNITÉ 
+VALEUR 
+TOTALE 
+Adresse 
+ADRESSE 
+ADRESSE 
+ADRESSE 
+TÉLÉPHONE 
+IMMATRICULATION DE N° 
+(Numéro d’identification douanière/fiscale, par exemple GST / RFC / TVA / IN / EIN / ABN / SSN,  
+ou autres dénominations selon le pays en question) 
+EXPÉDIER À 
+nom complet 
+Adresse 
+ADRESSE 
+ADRESSE 
+ADRESSE 
+TÉLÉPHONE 
+IMMATRICULATION DE commande 
+QTÉ TOTALE 
+VALEURE 
+TOTALE 
+(Numéro d’identification douanière/fiscale, par exemple GST / RFC / TVA / IN / EIN / ABN / SSN, ou 
+autres dénominations selon le pays en question) 
+0 
+INFORMATIONS SUR L’EXPÉDITION 
+ 
+Remarques/Instructions : 
+FRET 
+N° DU BON DE COMMANDE  
+ASSURANCE 
+DATE DU BON DE COMMANDE 
+AUTRE 
+LETTRE DE CRÉDIT N° 
+TOTAL 
+Devise : 
+Ces produits, technologies ou logiciels ont été exportés des États-Unis conformément à la réglementation relative à l’administration des exportations. Tout détournement contraire à la législation 
+américaine est interdit. 
+DATE DE RÉCEPTION ESTIMÉE 
+Par la présente, je certifie que cette facture indique le prix réel des marchandises décrites, qu’aucune autre facture n’a été émise et que toutes les informations sont vraies et correctes. 
+MODE DE TRANSPORT 
+CONDITIONS DE TRANSPORT 
+EXPORTATEUR 
+NOMBRE DE COLIS 
+(EN MAJUSCULE) 
+POIDS BRUT ESTIMÉ 
+POIDS NET ESTIMÉ 
+EXPORTATEUR 
+TRANSPORTEUR 
+SIGNATURE 
+INFORMATIONS DOUANIÈRES SUPPLÉMENTAIRES 
+MOTIF DE L’EXPORTATION 
+DATE 
+PORT D’EMBARQUEMENT 
+PAYS D’ORIGINE 
+PORT DE DÉCHARGE 
+En cas de questions concernant cette facture, veuillez contacter 
+AWB /BL no. 
+
+ 
+EXCLUSION DE RESPONSABILITÉ 
+ 
+Tous les articles, modèles ou informations proposés par Smartsheet sur le site web sont fournis 
+à titre de référence uniquement. Bien que nous nous efforcions de maintenir les informations 
+à jour et exactes, nous ne faisons aucune déclaration, ni n’offrons aucune garantie, de 
+quelque nature que ce soit, expresse ou implicite, quant à l’exhaustivité, l’exactitude, la 
+fiabilité, la pertinence ou la disponibilité du site web, ou des informations, articles, modèles 
+ou graphiques liés, contenus sur le site. Toute la confiance que vous accordez à ces 
+informations relève de votre propre responsabilité, à vos propres risques. 
+ 
+Ce modèle n’est fourni qu’à titre d’exemple. Ce modèle ne saurait en aucun cas être 
+considéré comme des conseils juridiques ou de conformité. Les utilisateurs de ce modèle 
+doivent déterminer les informations nécessaires dont ils ont besoin pour atteindre leurs 
+objectifs. 
+ 

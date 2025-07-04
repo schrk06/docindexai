@@ -1,0 +1,27 @@
+Facture N°1
+Siret : 
+N° TVA : 
+Tél : 
+Siret : 
+Tél : 
+Total HT
+0,00 €
+TVA (20,00 %)
+0,00 €
+Total TTC
+0,00 €
+En cas de retard, une pénalité au taux annuel de 5 % sera appliquée, à laquelle s’ajoutera une indemnité forfaitaire pour frais de recouvrement
+de 40 €
+Date de facture
+Date de livraison
+Echéance de paiement
+04/07/2025
+04/07/2025
+04/09/2025
+Description
+Quantité
+Prix unitaire HT
+Prix total HT
+1
+ €
+0,00 €

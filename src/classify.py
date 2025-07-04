@@ -1,4 +1,4 @@
-from extract_text import extract_text_from_pdf
+from .extract_text import extract_text_from_pdf
 import joblib
 import sys
 from pathlib import Path

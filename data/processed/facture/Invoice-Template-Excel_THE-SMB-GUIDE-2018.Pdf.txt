@@ -1,0 +1,38 @@
+INVOICE #001
+COMPANY NAME
+Your Company Logo
+[ADDRESS]
+[CITY, STATE, ZIP CODE]
+PHONE | FAX
+[DUE DATE/PAYMENT TERMS]
+DATE
+BILL TO
+FOR
+NAME | COMPANY
+ADDRESS
+CITY, ST ZIP CODE
+PHONE
+Details
+AMOUNT
+Description
+$100.00
+Description
+$200.00
+Description
+Amount
+Description
+Amount
+SUBTOTAL
+$300.00
+TAX RATE
+0.00%
+SHIPPING & HANDLING
+$0.00
+TOTAL
+$300.00
+[BANK ACCOUNT DETAILS]
+THANK YOU FOR YOUR BUSINESS!
+PRODUCT DESCRIPTION
+If you have any questions concerning this invoice, please contact:
+Contact Name, Phone Number, Email
+Make all checks payable to COMPANY NAME

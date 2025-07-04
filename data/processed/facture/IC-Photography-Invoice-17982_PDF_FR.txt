@@ -1,0 +1,48 @@
+MODÈLE DE FACTURE POUR PHOTOGRAPHE 
+FACTURE POUR PHOTOGRAPHE 
+N° DE FACTURE 
+DATE DE LA 
+FACTURE 
+PHOTOGRAPHE 
+DATE 
+SERVICES 
+TOTAL 
+NOM DE 
+L’ENTREPRISE 
+ADRESSE 
+ADRESSE 
+ADRESSE 
+TÉLÉPHONE 
+ADRESSE E-MAIL 
+CLIENT 
+NOM COMPLET 
+Adresse 
+ADRESSE 
+ADRESSE 
+TÉLÉPHONE 
+ADRESSE E-MAIL 
+NOM DE 
+L’ENTREPRISE 
+MODALITÉS + REMARQUES 
+SOUS-TOTAL 
+saisissez le pourcentage du TAUX DE 
+TAXE 
+TOTAL DE LA TAXE 
+spécifiez autresAUTRE 
+Veuillez libeller votre chèque à l’ordre de 
+TOTAL GÉNÉRAL 
+saisissez le montant du paiement initial MOINS LE 
+PAIEMENT 
+En cas de questions concernant cette facture, veuillez contacter 
+TOTAL DÛ 
+MERCI
+
+EXCLUSION DE RESPONSABILITÉ 
+Tous les articles, modèles ou informations proposés par Smartsheet sur le site web sont 
+fournis à titre de référence uniquement. Bien que nous nous efforcions de maintenir les 
+informations à jour et exactes, nous ne faisons aucune déclaration, ni n’offrons aucune 
+garantie, de quelque nature que ce soit, expresse ou implicite, quant à l’exhaustivité, 
+l’exactitude, la fiabilité, la pertinence ou la disponibilité du site web, ou des 
+informations, articles, modèles ou graphiques liés, contenus sur le site. Toute la 
+confiance que vous accordez à ces informations relève de votre propre 
+responsabilité, à vos propres risques. 
